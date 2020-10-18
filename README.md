@@ -17,5 +17,3 @@ The purpose of this repository is to store interesting VR experiments
 ### Other:
 #### 3D animation:
 1. [TreeJs](https://github.com/mrdoob/three.js/) - The aim of the project is to create an easy to use, lightweight, 3D library with a default WebGL renderer. The library also provides Canvas 2D, SVG and CSS3D renderers in the examples.
-#### Contribute
-No license, just feel free to contribute: add/edit/copy/re-use/distribute/play.
