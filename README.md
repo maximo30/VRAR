@@ -1,5 +1,5 @@
 # VR/AR (Virtual and Augmented reality)
-The purpose of this repository is to store interesting VR experiments
+The purpose of this repository is to document interesting VR experiments on github.
 ### VR/AR projects:
 1. [aframe-react](https://github.com/supermedium/aframe-react) - Build virtual reality experiences with A-Frame and React
 1. [Oculus and Unity dev-hub and libs](https://developer.oculus.com/downloads/package/oculus-developer-hub-mac/) - Libraries for developing apps in Oculus.
